@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My Test Suite" >
+    <test name="mini_project" parallel="classes" thread-count="5">
+        <classes >
+            <class name="pages.AccountPage" />
+            <class name="stepdefinitions.HomePageUiTestSteps" />
+            <class name="stepdefinitions.LoginFunctionalTest" />
+            <class name="stepdefinitions.MovieDetailsPageTest" />
+            <class name="stepdefinitions.SearchPageTest" />
+            <class name="stepdefinitions.PopularPageTest" />
+            <class name="TestRunner" />
+        </classes>
+    </test>
+
+</suite>
