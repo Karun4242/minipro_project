@@ -22,7 +22,7 @@ public class AccountPage {
     WebElement searchFinalEl;
 
     @FindAll({
-            @FindBy(className="//div[@class='account-information-container']/descendant::p"),})
+            @FindBy(xpath="//div[@class='account-information-container']/descendant::p"),})
     public List<WebElement> AccountPageAllEl;
 
     @FindBy (className ="logout-button")

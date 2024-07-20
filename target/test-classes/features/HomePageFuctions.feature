@@ -24,20 +24,9 @@ Feature: Homepage Ui
     When I checked app logo
     Then I checked nav bar elements
 
-#  Scenario: Test the navigation to the account page through elements in the header section
-#
-#    Given I am on the Home page
-#    When I click on home
-#    And I checked trends movies displayed or not
-#    Then I checked nav bar to accounts page
 
 
 
 
 
-#  Scenario: Test whether the Movies are displayed, in the corresponding movies sections
-#
-#    Given I am on the login page
-#    When I checked
-#    Then an error message 'valid user ID' should be visible
 

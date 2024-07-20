@@ -10,9 +10,3 @@ Feature: movies page Ui
     When I click on popular nav and clicked any one movie
     Then I checked all movies displayed or not
 
-#
-#  Scenario: Test the movies Ui Section
-#
-#    Given I am on the movies page
-#    When I click on home element
-#    Then I checked all home movies displayed or not

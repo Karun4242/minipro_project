@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="My Test Suite" >
-    <test name="mini_project" parallel="classes" thread-count="5">
+    <test name="mini_project" parallel="methods" thread-count="10">
         <classes >
             <class name="pages.AccountPage" />
             <class name="stepdefinitions.HomePageUiTestSteps" />
