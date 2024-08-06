@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ad1868f-cfa7-4fad-bd0c-30c2b6d1502f" name="Default Changelist" comment="" />
+    <list default="true" id="3ad1868f-cfa7-4fad-bd0c-30c2b6d1502f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/AccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/AccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/MovieDetailsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/MovieDetailsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/PopularPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/PopularPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/AccountPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/AccountPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/HomePageUiTestSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/HomePageUiTestSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/LoginFunctionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/LoginFunctionalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/MovieDetailsPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/MovieDetailsPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/PopularPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/PopularPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinitions/SearchPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/SearchPageTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,88 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/AccountPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/LoginFunctionalTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2018">
-              <caret line="101" selection-start-line="101" selection-end-line="101" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/MoviesDetails.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginFunctions.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-418">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+            <state relative-caret-position="120">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding>
                 <element signature="n#build#0;n#project#0;n#!!top" />
               </folding>
@@ -108,13 +46,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MovieDetailsPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/MovieDetailsPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="1298">
+              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/PopularPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/HomePageFuctions.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -127,6 +86,48 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/AccountPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginFunctions.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test-output/emailable-report.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-output/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-132" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -157,7 +158,6 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/MovieDetailsPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/accountPageUi.feature" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/LoginFunctionalTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/LoginFunctions.feature" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/PopularPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/MovieDetailsPageTest.java" />
@@ -169,6 +169,7 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pages/AccountPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/LoginFunctions.feature" />
       </list>
     </option>
   </component>
@@ -199,8 +200,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,6 +258,11 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="minipro_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minipro_project" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -264,7 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1721149297997" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1722943118682" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -291,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/aleti/IdeaProjects/minipro_project/testng.xml">
+  <component name="RunManager" selected="TestNG.TestRunner">
     <configuration name="Feature: HomePageFuctions" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/HomePageFuctions.feature" />
@@ -346,9 +352,19 @@
       </method>
     </configuration>
     <configuration name="C:/Users/aleti/IdeaProjects/minipro_project/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="minipro_project" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -357,21 +373,37 @@
     </configuration>
     <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="minipro_project" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: HomePageFuctions" />
+      <item itemvalue="Cucumber java.Scenario: Login with empty input fields" />
+      <item itemvalue="Cucumber java.Scenario: Test the navigation to the account page through elements in the header section" />
+      <item itemvalue="TestNG.C:/Users/aleti/IdeaProjects/minipro_project/testng.xml" />
+      <item itemvalue="TestNG.TestRunner" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestRunner" />
         <item itemvalue="TestNG.C:/Users/aleti/IdeaProjects/minipro_project/testng.xml" />
         <item itemvalue="Cucumber java.Scenario: Test the navigation to the account page through elements in the header section" />
         <item itemvalue="Cucumber java.Feature: HomePageFuctions" />
-        <item itemvalue="TestNG.TestRunner" />
         <item itemvalue="Cucumber java.Scenario: Login with empty input fields" />
       </list>
     </recent_temporary>
@@ -387,27 +419,17 @@
       <option name="presentableId" value="Default" />
       <updated>1719857526469</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1721465326996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465326996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Test_the_navigation_to_the_account_page_through_elements_in_the_header_section - 2024.07.13 at 03h 58m 24s.xml">
-      <configuration name="Scenario: Test the navigation to the account page through elements in the header section" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Test_the_navigation_to_the_account_page_through_elements_in_the_header_section - 2024.07.13 at 04h 01m 28s.xml">
-      <configuration name="Scenario: Test the navigation to the account page through elements in the header section" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Test_the_navigation_to_the_account_page_through_elements_in_the_header_section - 2024.07.13 at 04h 06m 29s.xml">
-      <configuration name="Scenario: Test the navigation to the account page through elements in the header section" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Test_the_navigation_to_the_account_page_through_elements_in_the_header_section - 2024.07.13 at 04h 11m 02s.xml">
-      <configuration name="Scenario: Test the navigation to the account page through elements in the header section" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Test_the_navigation_to_the_account_page_through_elements_in_the_header_section - 2024.07.13 at 04h 15m 56s.xml">
-      <configuration name="Scenario: Test the navigation to the account page through elements in the header section" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__HomePageFuctions - 2024.07.13 at 04h 19m 29s.xml">
-      <configuration name="Feature: HomePageFuctions" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Feature__HomePageFuctions - 2024.07.13 at 04h 24m 46s.xml">
       <configuration name="Feature: HomePageFuctions" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -420,6 +442,24 @@
     <history-entry file="C__Users_aleti_IdeaProjects_minipro_project_testng_xml - 2024.07.13 at 04h 45m 11s.xml">
       <configuration name="C:/Users/aleti/IdeaProjects/minipro_project/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_aleti_IdeaProjects_minipro_project_testng_xml - 2024.08.06 at 18h 47m 07s.xml">
+      <configuration name="C:/Users/aleti/IdeaProjects/minipro_project/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_aleti_IdeaProjects_minipro_project_testng_xml - 2024.08.06 at 18h 47m 38s.xml">
+      <configuration name="C:/Users/aleti/IdeaProjects/minipro_project/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_aleti_IdeaProjects_minipro_project_testng_xml - 2024.08.06 at 18h 48m 33s.xml">
+      <configuration name="C:/Users/aleti/IdeaProjects/minipro_project/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRunner - 2024.08.06 at 18h 48m 49s.xml">
+      <configuration name="TestRunner" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRunner - 2024.08.06 at 18h 52m 58s.xml">
+      <configuration name="TestRunner" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRunner - 2024.08.06 at 19h 02m 23s.xml">
+      <configuration name="TestRunner" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
@@ -429,15 +469,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25704697" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3295129" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3495702" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3495702" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.24498567" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -481,6 +521,28 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/MovieDetailsPageTest.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/MovieDetailsPageTest.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/HeaderSectionTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/HeaderSection.feature" />
@@ -510,16 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/PopularPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/HomePageUiTestSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -527,20 +579,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/HomePageFuctions.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -554,16 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/MovieDetailsPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1068">
-          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/SearchPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -571,13 +599,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/accountPageUi.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -595,24 +616,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MovieDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/MoviesDetails.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="220">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginFunctions.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/LoginFunctionalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        <state relative-caret-position="484">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -621,7 +655,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2018">
+        <state relative-caret-position="1980">
           <caret line="101" selection-start-line="101" selection-end-line="101" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -629,19 +663,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="374">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/accountPageUi.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/MovieDetailsPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/PopularPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/HomePageFuctions.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/AccountPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="84">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -649,12 +724,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/LoginFunctionalTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="120">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -669,24 +744,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MovieDetailsPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginFunctions.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="319">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/test-output/emailable-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-          <folding>
-            <element signature="n#build#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
+        <state relative-caret-position="-132" />
       </provider>
     </entry>
   </component>
