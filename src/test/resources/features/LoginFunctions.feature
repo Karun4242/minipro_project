@@ -21,6 +21,10 @@ Feature: Login Ui and Functionality
     |username  |  password      |
     |praneetha |  praneetha@2021|
     |rahul     |  rahul@2021    |
+    |karun     |  karun@2021    |
+    |appu      |  appu@2021     |
+    |myra      |  karun@2021    |
+    |afruza    |  appu@2021     |
 
 
 
