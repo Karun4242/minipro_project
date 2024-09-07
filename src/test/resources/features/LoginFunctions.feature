@@ -13,7 +13,7 @@ Feature: Login Ui and Functionality
   Scenario Outline: Login functionality with Valid Credentials
 
     Given I am on the login page
-    When I enter valid <username> and <password>
+    When I enter valid "<username>" and "<password>"
     And click login page
     Then I should be get to the home page
 
