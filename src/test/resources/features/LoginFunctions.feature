@@ -13,7 +13,7 @@ Feature: Login Ui and Functionality
   Scenario Outline: Login functionality with Valid Credentials
 
     Given I am on the login page
-    When I enter valid <username> and <password>
+    When I enter valid "<username>" and "<password>"
     And click login page
     Then I should be get to the home page
 
@@ -23,8 +23,8 @@ Feature: Login Ui and Functionality
     |rahul     |  rahul@2021    |
     |karun     |  karun@2021    |
     |appu      |  appu@2021     |
-    |myra      |  karun@2021    |
-    |afruza    |  appu@2021     |
+    |myra      |  myra@2021     |
+    |afruza    |  afruza@2021   |
 
 
 
