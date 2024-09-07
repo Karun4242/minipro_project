@@ -24,7 +24,9 @@ Feature: Login Ui and Functionality
     |karun     |  karun@2021    |
     |appu      |  appu@2021     |
     |myra      |  myra@2021     |
-    |afruza    |  afruza@2021   |
+    |santhi    |  santhi@2021   |
+    |kk        |  akk@2021      |
+    |kamal     |  kamal@2021    |
 
 
 
