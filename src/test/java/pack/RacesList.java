@@ -7,16 +7,9 @@ public class RacesList {
     int race;
     String selectionList;
     int betAmount;
-    int banker;
 
 
-    public int getBanker() {
-        return banker;
-    }
 
-    public void setBanker(int banker) {
-        this.banker = banker;
-    }
 
     public String getBetrace() {
         return betrace;
