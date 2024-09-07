@@ -23,8 +23,8 @@ Feature: Login Ui and Functionality
     |rahul     |  rahul@2021    |
     |karun     |  karun@2021    |
     |appu      |  appu@2021     |
-    |myra      |  karun@2021    |
-    |afruza    |  appu@2021     |
+    |myra      |  myra@2021     |
+    |afruza    |  afruza@2021   |
 
 
 
