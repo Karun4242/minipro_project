@@ -19,14 +19,12 @@ Feature: Login Ui and Functionality
 
     Examples:
     |username  |  password      |
+    |karun     |  karun@2021    |
+    |myra      |  karun@2021    |
+    |afruza    |  appu@2021     |
     |praneetha |  praneetha@2021|
     |rahul     |  rahul@2021    |
-    |karun     |  karun@2021    |
-    |appu      |  appu@2021     |
-    |myra      |  myra@2021     |
-    |santhi    |  santhi@2021   |
-    |kk        |  akk@2021      |
-    |kamal     |  kamal@2021    |
+
 
 
 
